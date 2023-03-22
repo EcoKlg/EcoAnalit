@@ -9,7 +9,7 @@
 - [Django](https://www.djangoproject.com/)
 
 ## Команда проекта
--[Любимов Кирилл](https://t.me/LubimovKirill) - front-End Engineer
+- [Любимов Кирилл](https://t.me/LubimovKirill) - front-End Engineer
 - [Чаплыгин Александр]() - front-End Engineer
 
 ## Источники
